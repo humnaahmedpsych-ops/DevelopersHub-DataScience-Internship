@@ -1,0 +1,32 @@
+# DevelopersHub Data Science & Analytics Internship
+
+## Overview
+
+This repository contains the tasks completed as part of the **DevelopersHub Data Science & Analytics Internship**. The projects demonstrate fundamental data science skills including data exploration, visualization, machine learning, and model evaluation using Python.
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+## Completed Tasks
+
+### ✅ Task 1 – Iris Dataset Exploration and Visualization
+
+**Objective**
+- Explore and understand the Iris dataset.
+- Perform exploratory data analysis (EDA).
+- Create visualizations including scatter plots, histograms, and box plots.
+
+**Key Skills Demonstrated**
+- Data loading with Pandas
+- Data exploration
+- Data visualization
+- Basic statistical analysis
+
+More tasks will be added as they are completed during the internship.
